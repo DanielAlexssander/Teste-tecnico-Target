@@ -21,6 +21,8 @@ if (isFibonacci(numero)) {
 }
 ```
 
+#
+
 2) Escreva um programa que verifique, em uma string, a existência da letra ‘a’, seja maiúscula ou minúscula, além de informar a quantidade de vezes em que ela ocorre.
 
 ### Resposta:
@@ -42,11 +44,15 @@ const count = countA(string);
 console.log(`A letra 'a' aparece ${count} vezes na string.`);
 ```
 
+#
+
 3) Observe o trecho de código abaixo: int INDICE = 12, SOMA = 0, K = 1; enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; } imprimir(SOMA);
 Ao final do processamento, qual será o valor da variável SOMA?
 
 ### Resposta:
 o valor da variável SOMA será 78.
+
+#
 
 4) Descubra a lógica e complete o próximo elemento:
 a) 1, 3, 5, 7, ___
@@ -64,6 +70,8 @@ C) 49
 D) 100
 E) 13
 F) 200
+
+#
 
 
 5) Você está em uma sala com três interruptores, cada um conectado a uma lâmpada em salas diferentes. Você não pode ver as lâmpadas da sala em que está, mas pode ligar e desligar os interruptores quantas vezes quiser. Seu objetivo é descobrir qual interruptor controla qual lâmpada. Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada?
